@@ -28,8 +28,7 @@
 		{
 			"Name": "8 Ball Pool",
 			"Downloaded": "18,625,573",
-			"Img": {
-	"games":[
+			"Img":
 		{
 			"Name": "Free Fire",
 			"Downloaded": "46,742,556",
@@ -79,29 +78,7 @@
 			"Name": "Gardenscapes",
 			"Downloaded": "8,400,396",
 			"Img": "https://tamagz.github.io/JsonParse/Pict/Gardenscapes.jpg"
-		},
-		]
-}
-},
-		{
-			"Name": "Rise of Kingdoms: Lost Crusade",
-			"Downloaded": "1,117,815",
-			"Img": "https://tamagz.github.io/JsonParse/Pict/8ballpool.jpg"
-		},
-		{
-			"Name": "Lords Mobile: Kingdom Wars",
-			"Downloaded": "5,004,046",
-			"Img": "https://tamagz.github.io/JsonParse/Pict/lordsmobile.jpeg"
-		},
-		{
-			"Name": "Ragnarok M: Eternal Love",
-			"Downloaded": "286,825",
-			"Img": "https://tamagz.github.io/JsonParse/Pict/ragnarok.jpg"
-		},
-		{
-			"Name": "Gardenscapes",
-			"Downloaded": "8,400,396",
-			"Img": "https://tamagz.github.io/JsonParse/Pict/Gardenscapes.jpg"
 		}
 		]
+		
 }
